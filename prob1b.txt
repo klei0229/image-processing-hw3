@@ -1,0 +1,5 @@
+Fourier Analysis
+
+1b. The maximum frequency n cannot exceed 3 cycles per scanline when N = 6. The number of samples N is divided by two so that in the frequency domain, max frequency can can extend from the range [-fMax,fMax]. 
+This provides the range in which the base band signal can operate. Using a larger fMax would mean that the base band signal will cover a larger region. This would mean that when sampling, the tails of 
+each baseband signal replication would become skewed due to overlapping. 

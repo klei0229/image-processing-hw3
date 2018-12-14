@@ -1,0 +1,13 @@
+5a) According to our results, our magnitude is a constant 0.004. The phase looks like a box filter.
+
+b) Yes, it is a sinc function.
+
+c) Wider c(x) gives us a magnitude that is half the period of b(x) with double of the value of b(x). The phase is unaffected.
+
+d) Based on our results, our magnitude is 1 at x=0 and 0 for everything else. The phase is an increasing linear function of x.
+
+e) For the magnitude, it distorts the sinc function because it changes the max value and period of the sinc function. The phase looks similiar except it has spikes which is caused by the cos function.
+
+f) Scaling the amplitude of b(x) to get f(x) does literally nothing to the magnitude and phase.
+
+g) Shifting b(x) to the right 16 pixels doesn't affect the magnitude, but it changes the phase completely.
